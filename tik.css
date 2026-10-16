@@ -70,3 +70,14 @@ body{
 .hide{
     display:none;
 }
+
+@media (max-width: 768px){
+    .game{
+        display: flex;
+        justify-content: center;
+    }
+    .box{
+        height: 120px;
+        width: 120px;
+    }
+}
