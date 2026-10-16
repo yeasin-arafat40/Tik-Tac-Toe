@@ -1,4 +1,4 @@
-# 🎮 Neon Tic-Tac-Toe Game
+# 🎮 Tic-Tac-Toe Game
 
 A modern, web-based Tic-Tac-Toe game built with **HTML, CSS, and JavaScript**. The application features an interactive UI, neon glow accents, smooth gameplay mechanics, and full responsiveness across mobile and desktop devices.
 
@@ -25,5 +25,5 @@ A modern, web-based Tic-Tac-Toe game built with **HTML, CSS, and JavaScript**. T
 
 ## 👨‍💻 Author 
 
--Yeain Arafat
-⭐ If you like this project, give it a star!
+- Yeain Arafat
+- ⭐ If you like this project, give it a star!
