@@ -1,0 +1,72 @@
+*{
+    margin: 0px;
+}
+.gamename{
+    color:white;
+    font-size: 50px;
+    
+}
+.msg-winer{
+    color:chartreuse;
+    font-size: 50px;
+    
+}
+#msg{
+    color:chartreuse;
+    font-size: 50px;
+}
+
+body{
+    text-align: center;
+    background-color: brown;
+}
+
+#add{
+    padding: 1rem;
+    font-size: 1.25rem;
+    background-color:black;
+    color: white;
+    border: none;
+}
+
+.container{
+    height: 600px;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    align-items: center;
+
+}
+.game{
+    height:500px;
+    width: 500px;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    align-items: center;
+
+
+}
+
+.box{
+    height:140px;
+    width:140px;
+    margin: 5px;
+    background-color: green; 
+    border-radius: 20px;
+    border: none;
+    box-shadow:0 0 1rem rgba(0 0 0 0.3);
+    font-size: 100px;
+    color: black;
+           
+}  
+#reset{
+    padding: 1rem;
+    font-size: 1.25rem;
+    background-color:black;
+    color: white;
+    border: none;
+}
+.hide{
+    display:none;
+}
